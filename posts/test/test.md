@@ -18,3 +18,7 @@ permalink: "test"
 # Git 更新测试
 
 看到这篇文章，说明内容分离 + Git 更新 + 本地服务器部署已经跑通。
+
+# Github webhook 测试
+
+出现此内容表示 webhook 测试完成。
