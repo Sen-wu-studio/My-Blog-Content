@@ -3,12 +3,13 @@ title: Encrypted Post
 published: 2024-01-15
 description: This is an article for testing the page encryption feature
 encrypted: true
-pinned: true
+pinned: false
 password: "123456"
 passwordHint: "123456"
 alias: "encrypted-example"
 tags: ["Test", "Encryption"]
 category: "Technology"
+draft: true
 ---
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).

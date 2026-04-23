@@ -1,13 +1,13 @@
 ---
 title: Github webhook 更新测试
 published: 2026-04-21
-pinned: true
+pinned: false
 description: 测试 github webhook 触发网站更新.
 tags: [test]
 category: Examples
 licenseName: "Unlicensed"
 author: sheng
-draft: false
+draft: true
 date: 2025-01-20
 image: ''
 pubDate: 2025-01-20
